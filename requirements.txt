@@ -6,3 +6,8 @@ ipykernel
 jupyterlab
 voila
 
+scipy
+stats
+statistics
+
+scikit-learn
